@@ -28,11 +28,5 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehskin13&show_icons=true&theme=dark&locale=en&layout=compact" alt="thehskin13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehskin13&show_icons=true&theme=dark&hide_border=true&locale=en" alt="thehskin13" /></p>
-
-
-
  
-
-<img src="https://avatars.githubusercontent.com/u/89594075?s=400&u=ed5c5a4bb91f10693295ff648d579a0165d1d68e&v=4" align="right" width="300" height="300" alt="">
-<img src="https://i.ibb.co/Qmnqdj5/template.png" align="left" width="500" height="300" alt="">
 <!-- // Begin Current Moon Phase HTML (c) MoonConnection.com // --><table cellpadding="0" cellspacing="0" border="0" width="212"><tr><td align="center"><a href="https://www.moonconnection.com" target="mc_moon_ph"><img src="https://www.moonmodule.com/cs/dm/hn.gif" width="212" height="136" border="0" alt="" /></a><div style="position:relative;width:128px;"><div style="position:absolute;top:-20px;left:6px;background:#000000;width:116px;text-align:center;"><a href="https://www.moonconnection.com/moon_phases.phtml" target="mc_moon_ph"><font color="#7F7F7F" size="1" face="arial,helvetica,sans-serif"><span style="color:#7F7F7F;font-family:arial,helvetica,sans-serif;font-size:10px;">moon phases</span></a></font></div></div></td></tr></table><!-- // end moon phase HTML // -->
