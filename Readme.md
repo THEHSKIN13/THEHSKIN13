@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehskin13" alt="thehskin13" /></a> </p>
 
-- 🌱 I’m currently learning **Coding,Networking,System administartion**
+- 🌱 I’m currently learning **Coding,Full Stack Web Development,Networking,System administartion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/THEHSKIN13](https://github.com/THEHSKIN13)
 
