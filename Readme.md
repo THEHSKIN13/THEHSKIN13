@@ -5,9 +5,9 @@ iqessam/iqessam is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm iqessam also known as HSK</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehskin13&label=Profile%20views&color=0e75b6&style=flat" alt="thehskin13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehskin13&label=Profile%20views&color=0e75b6&style=flat" alt="thehskin13" /> </p><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/Iqessam" alt="Iqessam's 42 stats" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehskin13" alt="thehskin13" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehskin13" alt="thehskin13" /></a> </p>
 
 - 🌱 I’m currently learning **Coding,Full Stack Web Development,Networking,System administartion**
 
