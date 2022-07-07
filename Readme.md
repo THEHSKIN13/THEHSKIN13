@@ -1,21 +1,22 @@
 
-
+<div align="center">
 <!---
 iqessam/iqessam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm iqessam also known as HSK</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehskin13&label=Profile%20views&color=0e75b6&style=flat" alt="thehskin13" /> </p><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/Iqessam" alt="Iqessam's 42 stats" /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thehskin13&label=Profile%20views&color=0e75b6&style=flat" alt="thehskin13" /> </p>
+<p align="center"> <a href="https://github.com/oakoudad/badge42" ><img src="https://badge.mediaplus.ma/greenbinary/Iqessam" alt="Iqessam's 42 stats" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqessam" alt="iqessam" /></a> </p>
 
-- 🌱 I’m currently learning **Coding,Full Stack Web Development,Networking,System administartion**
+<p> - 🌱 I’m currently learning **Coding,Full Stack Web Development,Networking,System administartion** </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/THEHSKIN13](https://github.com/THEHSKIN13)
+<p> - 👨‍💻 All of my projects are available at [https://github.com/THEHSKIN13](https://github.com/THEHSKIN13) </p>
 
-- 📫 How to reach me **iqessam@student.1337.ma**
+<p> - 📫 How to reach me **iqessam@student.1337.ma** </p>
 
-- ⚡ Fun fact **Roses are red, Violets are blue, Your phone is smart, So why aren’t you?**
+<p> - ⚡ Fun fact **Roses are red, Violets are blue, Your phone is smart, So why aren’t you?** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,5 +29,3 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehskin13&show_icons=true&theme=dark&locale=en&layout=compact" alt="thehskin13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehskin13&show_icons=true&theme=dark&hide_border=true&locale=en" alt="thehskin13" /></p>
- 
-<!-- // Begin Current Moon Phase HTML (c) MoonConnection.com // --><table cellpadding="0" cellspacing="0" border="0" width="212"><tr><td align="center"><a href="https://www.moonconnection.com" target="mc_moon_ph"><img src="https://www.moonmodule.com/cs/dm/hn.gif" width="212" height="136" border="0" alt="" /></a><div style="position:relative;width:128px;"><div style="position:absolute;top:-20px;left:6px;background:#000000;width:116px;text-align:center;"><a href="https://www.moonconnection.com/moon_phases.phtml" target="mc_moon_ph"><font color="#7F7F7F" size="1" face="arial,helvetica,sans-serif"><span style="color:#7F7F7F;font-family:arial,helvetica,sans-serif;font-size:10px;">moon phases</span></a></font></div></div></td></tr></table><!-- // end moon phase HTML // -->
